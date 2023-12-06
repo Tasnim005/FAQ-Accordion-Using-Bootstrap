@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Repository]()
-- Live Site URL: [Live Preview]()
+- Solution URL: [Repository](https://github.com/Tasnim005/FAQ-Accordion-Using-Bootstrap)
+- Live Site URL: [Live Preview](https://tasnim005.github.io/FAQ-Accordion-Using-Bootstrap/)
 
 ## My process
 
